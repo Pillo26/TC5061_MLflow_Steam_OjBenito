@@ -1,0 +1,19 @@
+# Entornos virtuales
+mlops/
+venv/
+env/
+
+# Archivos y base de datos local de MLflow
+mlartifacts/
+mlflow.db
+
+# Archivos de prueba locales
+hello_mlflow.py
+hola_mundo.txt
+reporte_prueba.txt
+captura_mlflow.png
+
+# Caché temporal de Python y Jupyter
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
